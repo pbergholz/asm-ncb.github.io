@@ -5,6 +5,7 @@
   excerpt: "General information about the 2016 meeting"
   image:
 
--title: Registration
+- title: Registration
   url: /registration/
   excerpt:  "Registration details"
+  image:
