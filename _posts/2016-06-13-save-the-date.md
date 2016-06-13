@@ -1,6 +1,7 @@
 ---
 layout: article
 title: "Save the date - Oct 21-22 Ames, IA"
+author: NCB Planning Committee
 categories: articles
 modified: 2016-06-13T16:28:11-04:00
 share: false
