@@ -1,6 +1,5 @@
 ---
-layout: post
-permalink: /
+layout: article
 title: "Contact Us"
 ---
 

@@ -1,10 +1,8 @@
 ---
 layout: archive
 permalink: /
-title: "ASM-NCB News"
+title: "Latest News"
 ---
-
-Latest Posts
 
 <div class="tiles">
 {% for post in site.posts %}
