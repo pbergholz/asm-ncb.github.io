@@ -4,7 +4,7 @@ title: "Contact Us"
 share: false
 ---
 
-You can contact us at asm-ncb@gmail.com.
+You can contact us at asm.ncb@gmail.com.
 
 
 
