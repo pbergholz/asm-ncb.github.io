@@ -9,3 +9,8 @@
   url: /registration/
   excerpt:  "Registration details"
   image:
+
+- title: Contact Us
+  url: /Contact/
+  excerpt:  
+  image:
