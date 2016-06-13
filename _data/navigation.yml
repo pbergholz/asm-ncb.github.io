@@ -1,6 +1,10 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: General Info
+  url: /general/
+  excerpt: "General information about the 2016 meeting"
   image:
+
+-title: Registration
+  url: /registration/
+  excerpt:  "Registration details"

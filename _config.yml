@@ -2,10 +2,10 @@
 
 title: "ASM North Central Branch"
 description: "Website for 2016 NCB Meeting"
-logo: # 120x120 px default image used for Twitter summary card
+logo: images/asm.png
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://asm-ncb.github.io
 feed:
   path: atom.xml
 
