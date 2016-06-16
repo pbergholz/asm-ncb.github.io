@@ -5,6 +5,11 @@
   excerpt: "General information about the 2016 meeting"
   image:
 
+- title: NCB Meeting
+  url: /meeting/
+  excerpt:  "Logistics for NCB Meeting"
+  image:
+
 - title: Registration
   url: /registration/
   excerpt:  "Registration details"
