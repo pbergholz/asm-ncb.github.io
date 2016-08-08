@@ -4,12 +4,19 @@ title: "Meeting Logistics"
 share: false
 ---
 
-76th Annual Meeting of the North Central Branch of the American Society for Microbiology
-October 21-22, 2016
-Meeting Location: Quality Inn & Suites Starlite Village Conference Center
+# 76th Annual Meeting of the North Central Branch of the American Society for Microbiology
+
+# October 21-22, 2016
+
+# Meeting Location
+Quality Inn & Suites 
+
+Starlite Village Conference Center
+
 2601 East 13th Street, Ames, IA, 50010
 
-Hosts: USDA, National Animal Disease Center, and National Laboratory for Agriculture and the Environment, and Iowa State University
+# Hosts 
+USDA, National Animal Disease Center, and National Laboratory for Agriculture and the Environment, and Iowa State University
 
 Brad Bearson, ASM NCB President, brad.bearson@ars.usda.gov, 515-294-0209
 
