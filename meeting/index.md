@@ -10,7 +10,9 @@ share: false
 
 # Meeting Location
 Quality Inn & Suites 
+
 Starlite Village Conference Center
+
 2601 East 13th Street, Ames, IA, 50010
 
 # Hosts 
