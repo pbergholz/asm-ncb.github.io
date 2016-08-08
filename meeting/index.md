@@ -25,8 +25,8 @@ Shawn Bearson, Conference Committee Chair, shawn.bearson@ars.usda.gov
 
 # Links to Meeting Information
 
-[Registration, Abstracts, Student Travel Information](http://asm-ncb.org/registration/)
-[Site and Accomodations](http://asm-ncb.org/accomodations/)
+[Registration, Abstracts, Student Travel Information](http://asm-ncb.org/registration/)  
+[Site and Accomodations](http://asm-ncb.org/accomodations/)  
 [Scientific Program](http://asm-ncb.org/program/)
 
 
