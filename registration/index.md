@@ -4,6 +4,10 @@ title: "Registration Details"
 share: false
 ---
 
+# Registration
+
+Details on registration are coming soon.  Abstract submission is open, details below.
+
 # Abstracts
 
 Abstract submissions are being accepted until Monday, September 19, 2016.
