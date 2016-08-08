@@ -4,10 +4,7 @@ title: "Registration Details"
 share: false
 ---
 
-#Abstracts
-
-76th Annual Meeting of the North Central Branch of the American Society for Microbiology
-October 21-22, 2016
+# Abstracts
 
 Abstract submissions are being accepted until Monday, September 19, 2016.
 
