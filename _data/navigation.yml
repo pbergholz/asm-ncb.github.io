@@ -15,6 +15,16 @@
   excerpt:  "Registration details"
   image:
 
+- title: Accomodations
+  url: /contact/
+  excerpt: "Places to stay"
+  image:
+
+- title: Program
+  url: /contact/
+  excerpt: "Scientific program"
+  image:
+
 - title: Contact Us
   url: /contact/
   excerpt:  
