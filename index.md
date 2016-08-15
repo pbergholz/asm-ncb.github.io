@@ -4,6 +4,7 @@ permalink: /
 title: "Latest News"
 ---
 
+![ASM logo](http://asm-ncb.org/images/asm.png)
 
 <ul >
     {% for post in site.posts limit 4 %}
