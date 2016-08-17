@@ -6,7 +6,8 @@ share: false
 
 # Registration
 
-Details on registration are coming soon.  Abstract submission is open, details below.
+Registration opens on August 19!  You can register for the meeting by clicking on this [link](https://www.eventbrite.com/e/76th-annual-meeting-of-the-north-central-branch-of-the-asm-tickets-27128380717).  Early bird tickets are on sale until Sept 26.  If you are not a current member of ASM NCB, ticket prices include membership for this year.
+
 
 # Abstracts
 
