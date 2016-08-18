@@ -18,8 +18,9 @@ October 21-22, 2016
 10:30-12:00  TBD, selected from abstracts.  Some will be student presentations.  
 
 #### Lunch  
-Professional Development Lunch for Post-docs and Students: Career panel in Ballroom A with boxed lunches.  Panelists include Dr. Michael Ibba (university scientist), Dr. Elli Theel (clinical scientist), Dr. John Bannantine (federal scientist), and TBD (industry scientist)
-Professionals:  lunch provided at Buford’s restaurant
+  Professional Development Lunch for Post-docs and Students: Career panel in Ballroom A with boxed lunches.  Panelists include Dr. Michael Ibba (university scientist), Dr. Elli Theel (clinical scientist), Dr. John Bannantine (federal scientist), and TBD (industry scientist)  
+  
+  Professionals:  lunch provided at Buford’s restaurant
 
 #### Concurrent oral presentations, Ballroom B and Ballroom C
 *B:  1:30 Elitza Theel, Mayo Clinic, “Zika Virus – A Perspective from the Clinical Laboratory”*
@@ -34,18 +35,18 @@ Professionals:  lunch provided at Buford’s restaurant
 
 #### Poster session, Ballroom D
 4:30-6:00  Please plan to be at your poster from 4-5  
-Dinner and Dancing, 6pm, Ballroom ABC  
-Entertainment provide by Damon Dotson  
+  Dinner and Dancing, 6pm, Ballroom ABC  
+  Entertainment provide by Damon Dotson  
 
 ### Saturday, October 22
 
 #### NCB ASM Business Meeting
 8:15-8:45 TBD, discussion of branch business, including election of 2017 Officers and the hosts for the 2017 NCB Meeting  
-Concurrent oral presentations, Ballroom B and Ballroom C  
+  Concurrent oral presentations, Ballroom B and Ballroom C  
 9:00-9:45  TBD, selected from abstracts.  Some will be student presentations.  
 9:45 coffee break  
 10:00-11:30 TBD, selected from abstracts.  
-Student Presentation Awards, 11:30, Ballroom BC  
+  Student Presentation Awards, 11:30, Ballroom BC  
 Concluding remarks from the NCB Preside  
 
 *Additional information coming soon.*
