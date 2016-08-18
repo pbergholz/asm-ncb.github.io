@@ -8,6 +8,7 @@ share: false
 October 21-22, 2016  
 
 ### Friday, October 21
+
 #### Plenary session, Ballroom B/C  
 8:15 Welcome from the NCB President  
 8:30 Keynote:  Michael Ibba, The Ohio State University, “Translational Control of Antibiotic Resistance”  
@@ -41,7 +42,7 @@ October 21-22, 2016
 #### NCB ASM Business Meeting
 8:15-8:45 TBD, discussion of branch business, including election of 2017 Officers and the hosts for the 2017 NCB Meeting  
 
-#### Concurrent oral presentations, Ballroom B and Ballroom C*
+#### Concurrent oral presentations, Ballroom B and Ballroom C
 9:00-9:45  TBD, selected from abstracts.  Some will be student presentations.  
 9:45 coffee break  
 10:00-11:30 TBD, selected from abstracts. Student Presentation Awards, 11:30, Ballroom BC  
