@@ -7,7 +7,7 @@ share: false
 ### 76th Annual Meeting of the North Central Branch of the American Society for Microbiology  
 October 21-22, 2016  
 
-Download printable schedule by clicking [here!](https://github.com/ASM-NCB/asm-ncb.github.io/raw/master/program/tentative_schedule.pdf)
+Download printable detailed schedule by clicking [here!](https://github.com/ASM-NCB/asm-ncb.github.io/raw/master/program/tentative_schedule.pdf)
 
 ### Friday, October 21
 
