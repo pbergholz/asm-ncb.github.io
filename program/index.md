@@ -50,7 +50,7 @@ Download printable detailed schedule by clicking [here!](https://github.com/ASM-
 10:00-11:30 TBD, selected from abstracts. Student Presentation Awards, 11:30, Ballroom BC  
 Concluding remarks from the NCB Preside  
 
-*Additional information coming soon.*
+*Tentative schedule, subject to change*
 
 
 
