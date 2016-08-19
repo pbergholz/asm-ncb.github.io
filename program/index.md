@@ -25,14 +25,14 @@ Download printable detailed schedule by clicking [here!](https://github.com/ASM-
   Professionals:  lunch provided at Buford’s restaurant
 
 #### Concurrent oral presentations, Ballroom B and Ballroom C
-*B:  1:30 Elitza Theel, Mayo Clinic, “Zika Virus – A Perspective from the Clinical Laboratory”*
+*B:  1:30 Elitza Theel, Mayo Clinic, “Zika Virus – A Perspective from the Clinical Laboratory”*. 
     2:00 TBD, selected from abstracts.  Some will be student presentations.  
 *C:  1:30 TBD, selected from abstracts.  Some will be student presentations.*  
     2:15 John Bannantine, USDA-ARS, title TBD  
     2:45 coffee break  
-*B:  3:00 Lisa Rucks, University of South Dakota, title TBD*
+*B:  3:00 Lisa Rucks, University of South Dakota, title TBD*. 
     3:30 TBD, selected from abstracts.  Some will be student presentations.  
-*C:  3:00      TBD, selected from abstracts.  Some will be student presentations.*
+*C:  3:00      TBD, selected from abstracts.  Some will be student presentations.*. 
     4:00 invited speaker TBD  
 
 #### Poster session, Ballroom D
