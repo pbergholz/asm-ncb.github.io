@@ -25,15 +25,22 @@ Download printable detailed schedule by clicking [here!](https://github.com/ASM-
   Professionals:  lunch provided at Buford’s restaurant
 
 #### Concurrent oral presentations, Ballroom B and Ballroom C
-*B:  1:30 Elitza Theel, Mayo Clinic, “Zika Virus – A Perspective from the Clinical Laboratory”*. 
-    2:00 TBD, selected from abstracts.  Some will be student presentations.  
-*C:  1:30 TBD, selected from abstracts.  Some will be student presentations.*  
-    2:15 John Bannantine, USDA-ARS, title TBD  
-    2:45 coffee break  
-*B:  3:00 Lisa Rucks, University of South Dakota, title TBD*. 
-    3:30 TBD, selected from abstracts.  Some will be student presentations.  
-*C:  3:00      TBD, selected from abstracts.  Some will be student presentations.*. 
-    4:00 invited speaker TBD  
+B:   
+1:30 Elitza Theel, Mayo Clinic, “Zika Virus – A Perspective from the Clinical Laboratory”.  
+2:00 TBD, selected from abstracts.  Some will be student presentations.  
+
+C:  
+1:30 TBD, selected from abstracts.  Some will be student presentations.    
+2:15 John Bannantine, USDA-ARS, title TBD  
+2:45 coffee break  
+
+B:  
+3:00 Lisa Rucks, University of South Dakota, title TBD.   
+3:30 TBD, selected from abstracts.  Some will be student presentations.  
+
+C:  
+3:00      TBD, selected from abstracts.  Some will be student presentations.  
+4:00 invited speaker TBD    
 
 #### Poster session, Ballroom D
 4:30-6:00  Please plan to be at your poster from 4-5  
@@ -47,7 +54,8 @@ Download printable detailed schedule by clicking [here!](https://github.com/ASM-
 #### Concurrent oral presentations, Ballroom B and Ballroom C
 9:00-9:45  TBD, selected from abstracts.  Some will be student presentations.  
 9:45 coffee break  
-10:00-11:30 TBD, selected from abstracts. Student Presentation Awards, 11:30, Ballroom BC  
+10:00-11:30 TBD, selected from abstracts.   
+11:30 Student Presentation Awards, Ballroom BC  
 Concluding remarks from the NCB Preside  
 
 *Tentative schedule, subject to change*
