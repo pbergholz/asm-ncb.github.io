@@ -6,7 +6,7 @@ categories: articles
 share: false
 ---
 
-Registration is open!  Early bird registration until Sept 26.
+Registration is open!  Early bird registration until Sept 26.  Click [here](https://www.eventbrite.com/e/76th-annual-meeting-of-the-north-central-branch-of-the-asm-tickets-27128380717) for registration direct link.
 
 # Links to Meeting Information
 
