@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Registration is open"
+title: "ISU Microbiome Symposium"
 modified: 2016-08-19T12:28:11-04:00
 categories: articles
 share: false
