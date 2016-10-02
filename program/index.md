@@ -16,39 +16,35 @@ Download speaker bios by clicking [here!](https://github.com/ASM-NCB/asm-ncb.git
 ### Friday, October 21
 
 #### Plenary session, Ballroom B/C  
-8:15 Welcome from the NCB President  
-8:30 Keynote:  Michael Ibba, The Ohio State University, “Translational Control of Antibiotic Resistance”  
-9:30 Pat Schlievert, University of Iowa, Staphylococcus aureus enterotoxins as alternatives to antibiotics  
-10:00 coffee break  
+8:45 Welcome from the NCB President  
+9:00 Keynote:  Michael Ibba, The Ohio State University, “Translational Control of Antibiotic Resistance”  
+10:00 Pat Schlievert, University of Iowa, "Can Coconuts Kill Many Microbial Pathogens?"
+10:30 coffee break  
 
 #### Concurrent oral presentations, Ballroom B and Ballroom C  
-10:30-12:00  TBD, selected from abstracts.  Some will be student presentations.  
+11:00-12:30  Selected from abstracts.  
 
-#### Lunch  
+#### Lunch (12:30-1:30) 
   Professional Development Lunch for Post-docs and Students: Career panel in Ballroom A with boxed lunches. 
   Professionals:  lunch provided at Buford’s restaurant
 
 #### Concurrent oral presentations, Ballroom B and Ballroom C
 B:   
-1:30 Elitza Theel, Mayo Clinic, “Zika Virus – A Perspective from the Clinical Laboratory”.  
-2:00 TBD, selected from abstracts.  Some will be student presentations.  
+2:00 Elizabeth Rucks, University of South Dakota, “Lessons learned in mapping the chlamydial inclusion membrane”.  
+2:30 Selected from abstracts.  
+3:00 Kim Brogden, University of Iowa, "Creating computational simulation models containing patient mutational profiles predict drug responder status to anti-PD-1/PD- L1 immunotherapy"
+3:30 Selected from abstracts.
 
 C:  
-1:30 TBD, selected from abstracts.  Some will be student presentations.    
-2:15 John Bannantine, USDA-ARS, title TBD  
-2:45 coffee break  
-
-B:  
-3:00 Lisa Rucks, University of South Dakota, title TBD.   
-3:30 TBD, selected from abstracts.  Some will be student presentations.  
-
-C:  
-3:00      TBD, selected from abstracts.  Some will be student presentations.  
-4:00 invited speaker TBD    
+2:00 Selected from abstracts.  
+2:30 Elitza Theel, Mayo Clinic, "Zika Virus – A Perspective from the Clinical Laboratory"
+3:00 Selected from abstracts.
+3:30 John Bannantine, University of Iowa, "The wild goose chase in mycobacterial research: the need to question even repeated observations"
 
 #### Poster session, Ballroom D
-4:30-6:00  Please plan to be at your poster from 4-5  
-6pm Dinner and Dancing, Ballroom ABC  
+4:00-5:30  Please plan to be at your poster from 4-5  
+5:30-6:00  Break
+6:00-9:30 Dinner and Entertainment, Ballroom ABC  
 
 ### Saturday, October 22
 
@@ -56,11 +52,9 @@ C:
 8:15-8:45 TBD, discussion of branch business, including election of 2017 Officers and the hosts for the 2017 NCB Meeting  
 
 #### Concurrent oral presentations, Ballroom B and Ballroom C
-9:00-9:45  TBD, selected from abstracts.  Some will be student presentations.  
-9:45 coffee break  
-10:00-11:30 TBD, selected from abstracts.   
-11:30 Student Presentation Awards, Ballroom BC  
-Concluding remarks from the NCB Preside  
+9:00-10:45  Selected from abstracts.  
+10:45 coffee break  
+11:30 Adjourn
 
 *Tentative schedule, subject to change*
 
