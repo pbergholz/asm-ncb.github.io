@@ -4,7 +4,7 @@ title: "Meeting Logistics"
 share: false
 ---
 
-### 76th Annual Meeting of the North Central Branch of the American Society for Microbiology
+### 77th Annual Meeting of the North Central Branch of the American Society for Microbiology
 
 ### October 6-7, 2017
 
